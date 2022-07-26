@@ -1,7 +1,6 @@
 - 👋 @3SeaChan
 - 👀 interested in Math, golang, NodeJS, Rust...
 - 🌱 currently learning golang, it is so interesting.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me == QQ:1070499839
 
 <!---
